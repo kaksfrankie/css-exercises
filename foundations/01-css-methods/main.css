@@ -1,0 +1,27 @@
+
+
+body
+{
+    padding: 10px;
+    margin: auto;
+    color: white;
+}
+div
+{   text-align: center;
+    border: 20px;
+    font-size: 40px;
+    background-color: rgb(255,0,0);
+}
+
+p
+{
+    border: 20px;
+    font-size: 20px;
+    background-color: green;
+}
+
+button
+{
+    font-size: 20px;
+    background-color: orange;
+}
