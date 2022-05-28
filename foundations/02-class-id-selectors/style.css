@@ -1,0 +1,21 @@
+p.odd
+{
+    background-color: rgb(251, 163, 178);
+    font-family: Verdana,  Dejavu sans,sans-serif;
+}
+div#blue
+{
+    color: blue;
+    font-size: 36px;
+}
+p#larger
+{
+    font-size: 24px;
+}
+
+div#fourth
+{
+    background-color: greenyellow;
+    font-size: 24px;
+    font-weight: bold;
+}
